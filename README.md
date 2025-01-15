@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently Learning fullstack Development<br><br>👨‍💻 All of my projects are available at https://github.com/faithl3?tab=repositories<br><br>📫 How to reach me wangarikaburu442@gmail.com<br><br>
+🌱 I’m currently Learning fullstack Development<br><br>👨‍💻 All of my projects are available at https://github.com/faithl3?tab=repositories<br><br>📫 How to reach me wangarikaburu442@gmail.com<br><br>⚡ Fun fact : Itachi Was the Good Guy!!!
 
 
 # 💻 Tech Stack:
